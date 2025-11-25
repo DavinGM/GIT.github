@@ -16,3 +16,4 @@ ini rencana Kina kedepannya
 - Linux (ubuntu)
 - Linux (Kali/Arch)
 - Python Bassic
+ > Deckop Apllication dengan PyQt
