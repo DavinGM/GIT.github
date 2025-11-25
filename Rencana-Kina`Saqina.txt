@@ -13,3 +13,4 @@ ini rencana Kina kedepannya
 - Docker
 - NGINX
 - Linux (ubuntu)
+- Linux (Kali/Arch)
