@@ -11,6 +11,8 @@ ini rencana Kina kedepannya
 - React Native
 - Data API
 - Docker
+> Membungku NGINX dan juga Apache
 - NGINX
 - Linux (ubuntu)
 - Linux (Kali/Arch)
+- Python Bassic
