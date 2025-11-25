@@ -1,6 +1,12 @@
 ini rencana Kina kedepannya
 
 - React Dasar
+* Atomic Desaingn
+* Plops
+* Rooting
+* Events
+* Auth
+* API
 - Vue.js
 - React Native
 - Data API
