@@ -1,0 +1,9 @@
+ini rencana Kina kedepannya
+
+- React Dasar
+- Vue.js
+- React Native
+- Data API
+- Docker
+- NGINX
+- Linux (ubuntu)
